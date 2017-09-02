@@ -8,6 +8,16 @@ SoothSocial is currently in the extremely experimental stages. It is currently o
 
 
 ## TODO:
+### Next Steps:
 - Switch from lexicon-based sentiment analysis to ML-based sentiment analysis, ideally using TensorFlow.
 - Add modules to collect comments from Facebook, Reddit
 - Add modules to retrieve data from ElasticSearch clusters.
+
+### Future steps:
+- Add geo-location to limit returns to specific areas
+- Build webUI to make searches user friendly
+- Add map of returned comments, and their platforms
+- Add feature to restrict returns to specific areas, controlled within web UI
+	(like clicking a specific section of a city to limit returns to that specific area.)
+
+
